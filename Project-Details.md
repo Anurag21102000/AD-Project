@@ -21,31 +21,31 @@ Members Details :
 
 
 - [@pratk18]  :- Graph Data Structure And Algorithms,\
-  Sub Topic   :\   
+  Sub Topic   :  
                    i. Dijkstra's Alghorithm\
                   ii. Topoloogical Sort\
                  iii. Kruskal Algorirthm
  
 - [@SangrM2003] :-  Array-based data structures,\
-   Sub Topic    :\     
+   Sub Topic    :     
                        i. Dynamic Range Stack\
 	              ii. Linked Stack\
 	             iii. Navigation Stack
 		  
 - [@RajAryan520] :- Hash-table data structure,\	
-    Sub Topic    :\  
+    Sub Topic    :  
                      i. Binary Heap\
 		    ii. Double Hash Table\
 		   iii. Stable Binary Heap
 
 - [@ray-bishal]   :- Linked-list−based data structures,\
-    Sub Topic     :\  
+    Sub Topic     :  
                       i. Cyclic List\
 		     ii. Single List\
 		    iii. Sorted Single List
 
 - [@Anurag21102000]:-   Tree-based data structures,\           
-   Sub Topic       :\   
+   Sub Topic       :  
                          i.AVL Tree\
 		        ii.B Tree\
 		       iii.Lazy Deletion Tree
