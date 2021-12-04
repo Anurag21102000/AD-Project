@@ -33,7 +33,7 @@ Members Details :
 	             iii. Navigation Stack
 		  
 - [@RajAryan520] :- Hash-table data structure,\	
-    Sub Topic    :  
+  Sub Topic      :  
                      i. Binary Heap\
 		    ii. Double Hash Table\
 		   iii. Stable Binary Heap
@@ -44,7 +44,7 @@ Members Details :
 		     ii. Single List\
 		    iii. Sorted Single List
 
-- [@Anurag21102000]:-   Tree-based data structures,\           
+- [@Anurag21102000]:-   Tree-based data structures,          
    Sub Topic       :  
                          i.AVL Tree\
 		        ii.B Tree\
